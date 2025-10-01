@@ -26,25 +26,24 @@ It features a **React frontend** and a **Node.js backend** with JWT-based authen
 
 ---
 
-## Folder Structure
-Super_Token/
-│
-├─ JWT-AUTH-FRONTEND/ # React frontend
-│ ├─ src/
-│ │ ├─ components/ # LoginForm, SignupForm
-│ │ ├─ context/ # AuthContext
-│ │ └─ pages/ # Dashboard
-│ └─ public/ # Static files
-│
-├─ JWT-AUTH/ # Node.js backend
-│ ├─ src/
-│ │ ├─ controllers/ # Auth controllers
-│ │ ├─ routes/ # Auth routes
-│ │ └─ middleware/ # Auth middleware
-│ └─ prisma/ # Database schema & migrations
-│
-└─ README.md # Project documentation
+## 📂 Folder Structure
 
+Super_Token/
+├── JWT-AUTH-FRONTEND/ # React frontend
+│ ├── src/
+│ │ ├── components/ # LoginForm, SignupForm
+│ │ ├── context/ # AuthContext
+│ │ └── pages/ # Dashboard
+│ └── public/ # Static files
+│
+├── JWT-AUTH/ # Node.js backend
+│ ├── src/
+│ │ ├── controllers/ # Auth controllers
+│ │ ├── routes/ # Auth routes
+│ │ └── middleware/ # Auth middleware
+│ └── prisma/ # Database schema & migrations
+│
+└── README.md # Project documentation
 
 ---
 
