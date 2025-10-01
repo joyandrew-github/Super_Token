@@ -446,8 +446,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@Joyandrew S](https://github.com/joyandrew-github)
+- Email: joyandrew.s2023it@sece.ac.in
 
 ---
 
